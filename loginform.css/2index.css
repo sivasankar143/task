@@ -1,0 +1,11 @@
+body{
+    background: url("/image/log1.jpg") no-repeat center;
+    background-size: cover;
+}
+.siva{
+   
+    -webkit-box-shadow: -1px 9px 56px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 9px 56px 0px rgba(0,0,0,0.75);
+    box-shadow: -1px 9px 56px 0px rgba(0,0,0,0.75);
+  
+}
